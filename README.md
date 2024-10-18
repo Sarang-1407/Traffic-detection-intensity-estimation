@@ -53,5 +53,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-- YOLO authors and contributors.
+- Ultralytics and its contributors.
 - Roboflow for providing the dataset.
