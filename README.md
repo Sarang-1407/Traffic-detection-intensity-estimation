@@ -13,7 +13,7 @@
 Make sure to install the required packages before running the scripts. You can create a virtual environment and install dependencies using the following command:
 
 ```bash
-pip install opencv-python numpy
+pip install opencv-python numpy ultralytics
 ```
 
 ## Usage
