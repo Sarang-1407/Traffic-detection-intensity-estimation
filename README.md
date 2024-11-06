@@ -1,4 +1,4 @@
-# Traffic-detection-intensity-estimation
+# VaahanFlow v1.0.0
  This repository contains a Real-time system for detecting vehicles and estimating traffic intensity using YOLOv8 algorithm
 
 ## Contents
